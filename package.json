@@ -1,10 +1,10 @@
 {
-  "name": "react-simple-di",
-  "version": "1.2.0",
-  "description": "Simple Dependancy Injection Solution for React",
+  "name": "manul-react-simple-di",
+  "version": "0.0.2",
+  "description": "fork of react-simple-di -- Simple Dependancy Injection Solution for React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/react-simple-di"
+    "url": ""
   },
   "license": "MIT",
   "options": {
