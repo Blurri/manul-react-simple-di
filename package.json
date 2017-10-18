@@ -1,6 +1,6 @@
 {
   "name": "manul-react-simple-di",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "fork of react-simple-di -- Simple Dependancy Injection Solution for React",
   "repository": {
     "type": "git",
